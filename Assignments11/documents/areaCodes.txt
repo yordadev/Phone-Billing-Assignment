@@ -1,0 +1,972 @@
+907
+0.07
+Alaska
+480
+0.03
+Arizona
+602
+0.03
+Arizona
+623
+0.03
+Arizona
+870
+0.06
+Arkansas
+949
+0.06
+California
+951
+0.06
+California
+415
+0.07
+California
+510
+0.07
+California
+562
+0.07
+California
+650
+0.07
+California
+657
+0.07
+California
+661
+0.07
+California
+752
+0.07
+California
+760
+0.07
+California
+831
+0.07
+California
+909
+0.07
+California
+925
+0.07
+California
+209
+0.07
+Cent. California
+408
+0.07
+Cent. Coastal California
+669
+0.07
+Cent. Coastal California
+217
+0.04
+Cent. Illinois
+317
+0.03
+Cent. Indiana
+515
+0.07
+Cent. Iowa
+508
+0.05
+Cent. Massachusetts
+774
+0.05
+Cent. Massachusetts
+517
+0.05
+Cent. Michigan
+320
+0.02
+Cent. Minnesota
+612
+0.02
+Cent. Minnesota
+651
+0.02
+Cent. Minnesota
+732
+0.06
+Cent. New Jersey
+848
+0.06
+Cent. New Jersey
+908
+0.06
+Cent. New Jersey
+336
+0.07
+Cent. North Carolina
+814
+0.08
+Cent. Pennsylvania
+205
+0.03
+Central Alabama
+928
+0.04
+Central and Northern Arizona
+501
+0.06
+Central Arkansas
+559
+0.07
+Central California
+303
+0.08
+Central Colorado
+720
+0.08
+Central Colorado
+407
+0.1
+Central Florida
+689
+0.1
+Central Florida
+478
+0.05
+Central Georgia
+931
+0.04
+Central Tennessee
+254
+0.04
+Central Texas
+325
+0.04
+Central Texas
+216
+0.07
+Cleveland
+203
+0.04
+Connecticut
+475
+0.04
+Connecticut
+860
+0.04
+Connecticut
+959
+0.04
+Connecticut
+302
+0.08
+Delaware
+256
+0.03
+E and N Alabama
+319
+0.07
+E Iowa
+563
+0.07
+E Iowa
+606
+0.08
+E Kentucky
+504
+0.06
+E Louisiana
+985
+0.06
+E Louisiana
+410
+0.08
+E Maryland
+443
+0.08
+E Maryland
+546
+0.05
+E Michigan
+810
+0.05
+E Michigan
+402
+0.02
+E Nebraska
+252
+0.07
+E North Carolina
+919
+0.07
+E North Carolina
+984
+0.07
+E North Carolina
+918
+0.06
+E Oklahoma
+717
+0.08
+E Pennsylvania
+626
+0.07
+E S California
+423
+0.04
+E Tennessee
+615
+0.04
+E Tennessee
+865
+0.04
+E Tennessee
+434
+0.08
+E Virginia
+757
+0.09
+E Virginia
+804
+0.09
+E Virginia
+509
+0.06
+E Washington state
+911
+0.06
+Emergency
+442
+0.07
+Far north suburbs of San Diego
+239
+0.08
+Florida
+321
+0.09
+Florida
+352
+0.09
+Florida
+754
+0.11
+Florida
+836
+0.11
+Florida
+863
+0.11
+Florida
+954
+0.11
+Florida
+850
+0.11
+Florida panhandle
+727
+0.11
+Florida Tampa Metro
+770
+0.04
+Georgia
+470
+0.05
+Georgia
+808
+0.06
+Hawaii
+208
+0.03
+Idaho
+312
+0.03
+Illinois
+464
+0.03
+Illinois
+708
+0.03
+Illinois
+773
+0.03
+Illinois
+872
+0.03
+Illinois
+282
+0.04
+Illinois
+765
+0.03
+Indiana
+641
+0.07
+Iowa
+913
+0.03
+Kansas
+327
+0.08
+Kentucky
+225
+0.06
+Louisiana
+207
+0.05
+Maine
+383
+0.05
+Maine
+249
+0.08
+Maryland
+280
+0.08
+Maryland
+969
+0.09
+Maryland
+339
+0.05
+Massachusetts
+351
+0.05
+Massachusetts
+617
+0.05
+Massachusetts
+781
+0.05
+Massachusetts
+857
+0.05
+Massachusetts
+978
+0.05
+Massachusetts
+248
+0.05
+Michigan
+278
+0.05
+Michigan
+313
+0.05
+Michigan
+586
+0.05
+Michigan
+947
+0.05
+Michigan
+713
+0.05
+Mid SE Texas
+763
+0.02
+Minnesota
+952
+0.02
+Minnesota
+601
+0.05
+Mississippi
+636
+0.06
+Missouri
+406
+0.08
+Montana
+785
+0.03
+N & W Kansas
+859
+0.08
+N and Central Kentucky
+970
+0.08
+N and W Colorado
+315
+0.03
+N Cent. New York
+940
+0.04
+N Cent. Texas
+817
+0.05
+N Cent. Texas
+386
+0.1
+N central Florida
+502
+0.08
+N Central Kentucky
+904
+0.11
+N Florida
+706
+0.04
+N Georgia
+678
+0.05
+N Georgia
+404
+0.06
+N Georgia
+574
+0.03
+N Indiana
+318
+0.06
+N Louisiana
+218
+0.03
+N Minnesota
+662
+0.05
+N Mississippi
+660
+0.06
+N Missouri
+816
+0.07
+N Missouri
+975
+0.07
+N Missouri
+201
+0.06
+N New Jersey
+551
+0.06
+N New Jersey
+862
+0.06
+N New Jersey
+973
+0.06
+N New Jersey
+715
+0.07
+N Wisconsin
+627
+0.07
+Napa
+570
+0.08
+NE and N Central Pennsylvania
+530
+0.07
+NE California
+916
+0.07
+NE California
+260
+0.03
+NE Indiana
+518
+0.03
+NE New York
+234
+0.07
+NE Ohio
+330
+0.07
+NE Ohio
+430
+0.03
+NE Texas
+903
+0.04
+NE Texas
+920
+0.07
+NE Wisconsin
+702
+0.05
+Nevada
+775
+0.05
+Nevada
+603
+0.07
+New Hampshire
+505
+0.07
+New Mexico
+957
+0.07
+New Mexico
+845
+0.02
+New York
+917
+0.02
+New York
+347
+0.03
+New York
+516
+0.03
+New York
+631
+0.03
+New York
+212
+0.03
+New York City
+718
+0.02
+New York City Metro Area
+646
+0.02
+New York NYC
+714
+0.07
+North and Central Orange County
+980
+0.07
+North Carolina
+701
+0.03
+North Dakota
+847
+0.03
+Northern NE Illinois
+224
+0.04
+Northern NE Illinois
+540
+0.08
+Northern Virginia
+571
+0.08
+Northern Virginia
+703
+0.09
+Northern Virginia
+479
+0.06
+NW Arkansas
+707
+0.07
+NW California
+815
+0.03
+NW Illinois
+219
+0.03
+NW Indiana
+716
+0.02
+NW New York
+585
+0.03
+NW New York
+419
+0.07
+NW Ohio
+567
+0.07
+NW Ohio
+380
+0.07
+Ohio
+440
+0.07
+Ohio
+503
+0.06
+Oregon
+541
+0.06
+Oregon
+971
+0.06
+Oregon
+880
+0.06
+Paid Toll-Free Service
+881
+0.06
+Paid Toll-Free Service
+882
+0.06
+Paid Toll-Free Service
+806
+0.05
+Panhandle Texas
+358
+0.08
+Pennsylvania
+878
+0.08
+Pittsburgh
+401
+0.06
+Rhode Island
+435
+0.02
+Rural Utah outside Salt Lake City metro
+251
+0.03
+S Alabama
+334
+0.03
+S Alabama
+276
+0.09
+S and SW Virginia
+935
+0.06
+S California
+213
+0.07
+S California
+310
+0.07
+S California
+323
+0.07
+S California
+424
+0.07
+S California
+619
+0.07
+S California
+747
+0.07
+S California
+818
+0.07
+S California
+858
+0.07
+S California
+805
+0.07
+S Cent. and Cent. Coastal California
+607
+0.03
+S Cent. New York
+910
+0.07
+S Cent. North Carolina
+618
+0.02
+S Illinois
+812
+0.03
+S Indiana
+316
+0.03
+S Kansas
+620
+0.03
+S Kansas
+507
+0.02
+S Minnesota
+228
+0.05
+S Mississippi
+609
+0.06
+S New Jersey
+914
+0.02
+S New York
+361
+0.04
+S Texas
+512
+0.05
+S Texas
+210
+0.06
+S Texas
+737
+0.06
+S Texas
+561
+0.1
+S. Central Florida
+772
+0.11
+S. Central Florida
+520
+0.03
+SE Arizona
+719
+0.08
+SE Colorado
+305
+0.09
+SE Florida
+786
+0.11
+SE Florida
+912
+0.04
+SE Georgia
+734
+0.05
+SE Michigan
+314
+0.05
+SE Missouri
+557
+0.05
+SE Missouri
+573
+0.06
+SE Missouri
+614
+0.07
+SE Ohio
+740
+0.07
+SE Ohio
+215
+0.08
+SE Pennsylvania
+267
+0.08
+SE Pennsylvania
+445
+0.08
+SE Pennsylvania
+484
+0.08
+SE Pennsylvania
+610
+0.08
+SE Pennsylvania
+835
+0.08
+SE Pennsylvania
+409
+0.03
+SE Texas
+936
+0.04
+SE Texas
+979
+0.04
+SE Texas
+262
+0.07
+SE Wisconsin
+414
+0.07
+SE Wisconsin
+369
+0.07
+Solano County
+803
+0.03
+South Carolina
+864
+0.03
+South Carolina
+843
+0.03
+South Carolina 
+605
+0.04
+South Dakota
+813
+0.11
+SW Florida
+861
+0.11
+SW Florida
+941
+0.11
+SW Florida
+229
+0.06
+SW Georgia
+337
+0.07
+SW Louisiana
+269
+0.05
+SW Michigan
+417
+0.05
+SW Missouri
+856
+0.06
+SW New Jersey
+937
+0.06
+SW Ohio
+283
+0.07
+SW Ohio
+513
+0.07
+SW Ohio
+724
+0.08
+SW Pennsylvania
+608
+0.07
+SW Wisconsin
+469
+0.02
+Texas
+281
+0.04
+Texas
+956
+0.04
+Texas
+972
+0.04
+Texas
+682
+0.05
+Texas
+830
+0.05
+Texas
+832
+0.05
+Texas
+214
+0.06
+Texas
+989
+0.04
+Upper central Michigan
+906
+0.05
+Upper Peninsula Michigan
+900
+99.99
+US toll calls
+800
+0
+US/Canada toll free
+822
+0
+US/Canada toll free
+833
+0
+US/Canada toll free
+844
+0
+US/Canada toll free
+855
+0
+US/Canada toll free
+866
+0
+US/Canada toll free
+877
+0
+US/Canada toll free
+888
+0
+US/Canada toll free
+385
+0.03
+Utah
+801
+0.03
+Utah
+802
+0.05
+Vermont
+381
+0.09
+Virginia
+309
+0.03
+W Cent. Illinois
+712
+0.07
+W Iowa
+270
+0.08
+W Kentucky
+240
+0.08
+W Maryland
+301
+0.08
+W Maryland
+413
+0.05
+W Massachusetts
+231
+0.05
+W Michigan
+616
+0.05
+W Michigan
+331
+0.03
+W NE Illinois
+630
+0.03
+W NE Illinois
+308
+0.03
+W Nebraska
+704
+0.07
+W North Carolina
+828
+0.07
+W North Carolina
+580
+0.06
+W Oklahoma
+405
+0.07
+W Oklahoma
+412
+0.08
+W Pennsylvania
+731
+0.04
+W Tennessee
+901
+0.04
+W Tennessee
+432
+0.02
+W Texas
+915
+0.04
+W Texas
+564
+0.06
+W Washington State
+206
+0.07
+W Washington State
+360
+0.07
+W Washington State
+425
+0.06
+Washington
+253
+0.07
+Washington
+202
+0.05
+Washington, D.C.
+304
+0.03
+West Virginia
+353
+0.07
+Wisconsin
+420
+0.07
+Wisconsin
+307
+0.04
+Wyoming
